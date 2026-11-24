@@ -5,6 +5,11 @@
 
 ---
 
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
+
 ## 🌟 Overview
 
 SalonFlow bridges the gap between high-end salon clientele and busy salon operators. It features:
@@ -13,6 +18,11 @@ SalonFlow bridges the gap between high-end salon clientele and busy salon operat
 - **Strict Design Standards**: Warm cream canvas (`#F9F7F3`), bone surfaces (`#F3F0E8`), rounded pill buttons, subtle shadows, large editorial typography (`Bricolage Grotesque`, `Inter`, `JetBrains Mono`), and the **Light Blue Color System** (zero orange, red, or pink accents).
 
 ---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +44,11 @@ SalonFlow bridges the gap between high-end salon clientele and busy salon operat
 
 ---
 
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
+
 ## 🎨 Design System & Color Palette
 
 - **Primary Brand Accent**: `#7CCBEE` (Light Blue)
@@ -48,6 +63,11 @@ SalonFlow bridges the gap between high-end salon clientele and busy salon operat
 - **Success Accent**: `#2B9A66`
 
 ---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
 
 ## 🚀 Key Modules & Capabilities
 
@@ -79,12 +99,37 @@ SalonFlow bridges the gap between high-end salon clientele and busy salon operat
 
 ---
 
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
+
 ## 🔑 Demo Access Credentials
 
 The login page contains a **1-Click Demo Logins** panel to test any role:
 
 | Role | Email | Password | Access Scope |
-| :--- | :--- | :--- | :--- |
+| :---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+ | :---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+ | :---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+ | :---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+ |
 | **Admin** | `admin@salonflow.demo` | `Admin@123` | Complete system configuration, staff management, financial analytics |
 | **Salon Owner** | `owner@salonflow.demo` | `Owner@123` | High-level reports, staff commissions, revenue monitoring |
 | **Receptionist** | `reception@salonflow.demo` | `Reception@123` | Front-desk scheduling, customer check-in, invoice generation |
@@ -92,6 +137,11 @@ The login page contains a **1-Click Demo Logins** panel to test any role:
 | **Customer / Guest** | `customer@salonflow.demo` | `Customer@123` | Ananya Sharma — booking portal, Gold loyalty status (335 pts) |
 
 ---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
 
 ## 💻 Getting Started Locally
 
@@ -123,6 +173,11 @@ npm run dev      # Starts Vite development server on http://localhost:5173
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
 
 ## 📁 Project Structure
 
@@ -158,6 +213,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ```
 
 ---
+
+## 🚀 Live Demo
+
+[SalonFlow Live Demo](https://salon-management-m1jk.vercel.app/)
+
 
 ## 📄 License
 
