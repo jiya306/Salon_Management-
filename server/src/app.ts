@@ -15,6 +15,7 @@ import analyticsRoutes from './routes/analyticsRoutes.js';
 import notificationRoutes from './routes/notificationRoutes.js';
 import settingsRoutes from './routes/settingsRoutes.js';
 import { errorHandler } from './middleware/errorHandler.js';
+import { connectDB } from './config/db.js';
 
 const app = express();
 
@@ -28,6 +29,21 @@ app.use(
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(morgan('dev'));
+
+// Connect to MongoDB before handling any request (needed on Vercel,
+// which uses this file directly and never runs server.ts)
+app.use(async (req, res, next) => {
+  try {
+    await connectDB();
+    next();
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.get('/', (req, res) => {
+  res.send('SalonFlow API is running');
+});
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {
